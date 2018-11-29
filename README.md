@@ -10,3 +10,5 @@ pip install -U scipy
 
 python ./KickAndDrift.py
 ```
+
+For more information about the physics behind this model, see the forthcoming article "Branched Flow", by Eric Heller, Ragnar Fleischmann, Tobias Kramer
